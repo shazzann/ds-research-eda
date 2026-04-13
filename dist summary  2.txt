@@ -1,0 +1,50 @@
+
+1. Ampara: Asthma live discharges are rising strongly, while asthma deaths and asthma CFR are slightly falling, which suggests higher service volume but not worsening fatality. Bronchitis live discharges are slightly decreasing, but bronchitis deaths and bronchitis CFR are inching upward. For this district, keep all six targets, but prioritize asthma live discharges and bronchitis deaths for planning. The reason is that burden is shifting by condition: asthma volume pressure is increasing, while bronchitis mortality risk is not improving.
+
+2. Anuradhapura: Asthma live discharges and asthma deaths are declining, and asthma CFR is nearly flat to slightly down, indicating improving asthma outcomes. In contrast, bronchitis live discharges and bronchitis deaths are both rising strongly, even though bronchitis CFR is falling. Prioritize bronchitis live discharges and bronchitis deaths as lead targets, with CFR as a secondary quality signal. The reason is that absolute bronchitis burden is growing, so deaths and caseload matter more than rate-only improvement.
+
+3. Badulla: Asthma live discharges, asthma deaths, and asthma CFR are all declining, so asthma is broadly improving. Bronchitis live discharges are rising while bronchitis deaths and CFR are falling, suggesting non-fatal bronchitis burden growth with better severity outcomes. Prioritize bronchitis live discharges as the early-warning target, while continuing to monitor deaths. The reason is that service demand is increasing even though mortality is improving.
+
+4. Batticaloa: Asthma live discharges are dropping, but asthma deaths are slightly rising and asthma CFR is falling, giving a mixed asthma picture. Bronchitis live discharges and bronchitis deaths are both rising, and bronchitis CFR is also positive. Prioritize bronchitis deaths and bronchitis live discharges first, then asthma deaths. The reason is that bronchitis shows consistent multi-indicator worsening in both volume and mortality.
+
+5. Colombo: Asthma live discharges and asthma deaths are both declining, with slightly declining asthma CFR, so asthma mortality pressure is improving. Bronchitis live discharges and bronchitis deaths are rising, while bronchitis CFR is near-flat positive. Prioritize bronchitis deaths as primary, then bronchitis live discharges, while retaining asthma as maintenance monitoring. The reason is a clear disease divergence: asthma improves, bronchitis worsens.
+
+6. Galle: Asthma live discharges, asthma deaths, and asthma CFR all decline, indicating asthma improvement. Bronchitis live discharges rise strongly, while bronchitis deaths and CFR decline. Prioritize bronchitis live discharges as the operational target and keep bronchitis deaths as a guardrail. The reason is that caseload is growing despite improving severity, which can still stress facilities.
+
+7. Gampaha: Asthma live discharges decline very sharply and asthma deaths decline, but asthma CFR is slightly positive. Bronchitis live discharges decline, bronchitis deaths rise, and bronchitis CFR rises strongly. Prioritize bronchitis deaths first, then validate bronchitis CFR and asthma live-discharge data quality in parallel. The reason is possible denominator instability plus a true mortality warning on bronchitis deaths.
+
+8. Hambantota: Asthma live discharges and asthma deaths decline, and asthma CFR declines, so asthma is improving. Bronchitis live discharges decline, but bronchitis deaths and bronchitis CFR are slightly increasing. Prioritize bronchitis deaths as the key risk target while watching asthma for sustained gains. The reason is that mortality direction is more important than volume here.
+
+9. Jaffna: Asthma live discharges and asthma deaths decline, but asthma CFR rises meaningfully. Bronchitis live discharges rise while bronchitis deaths and CFR decline. Prioritize asthma CFR validation plus bronchitis live discharges as service-planning target. The reason is mixed severity-volume dynamics: asthma fatality signal worsens while bronchitis caseload grows.
+
+10. Kalutara: Asthma live discharges, asthma deaths, and asthma CFR all decline. Bronchitis live discharges and bronchitis deaths also decline, and bronchitis CFR declines strongly. Keep all six targets, but treat this district as improvement-maintenance with focus on sustaining downward death trends. The reason is broad positive movement across both conditions.
+
+11. Kandy: Asthma live discharges and asthma deaths decline strongly, and asthma CFR is near flat-to-down. Bronchitis live discharges rise slightly, while bronchitis deaths decline and bronchitis CFR declines strongly. Prioritize bronchitis live discharges as a capacity signal and keep death targets for maintenance. The reason is that non-fatal burden can rise even when mortality is improving.
+
+12. Kegalle: Asthma live discharges decline, but asthma deaths and asthma CFR are slightly positive. Bronchitis live discharges decline, bronchitis deaths rise, and bronchitis CFR declines strongly. Prioritize bronchitis deaths and asthma deaths as mortality targets, with live discharges as secondary. The reason is small but persistent mortality upticks despite falling caseload proxies.
+
+13. Kilinochchi: Asthma live discharges rise slightly, while asthma deaths and asthma CFR decline. Bronchitis live discharges also rise slightly, while bronchitis deaths and CFR decline. Prioritize live discharges for both conditions as growth-monitoring targets and keep death targets as control metrics. The reason is emerging utilization growth with improving mortality profile.
+
+14. Kurunegala: Asthma live discharges and asthma deaths decline, but asthma CFR rises very strongly. Bronchitis live discharges rise, bronchitis deaths decline, and bronchitis CFR drops sharply. Prioritize asthma CFR data validation and asthma deaths quality checks, then track bronchitis live discharges operationally. The reason is a likely denominator-driven asthma CFR spike combined with real service shifts.
+
+15. Mannar: Asthma live discharges decline slightly, and asthma deaths/CFR also decline slightly. Bronchitis live discharges rise mildly, while bronchitis deaths and CFR decline mildly. Keep all six targets, but this is a low-velocity district where early detection matters more than crisis response. The reason is mostly stable trends with small directional changes.
+
+16. Matale: Asthma live discharges and asthma deaths decline, while asthma CFR is nearly flat positive. Bronchitis live discharges rise, bronchitis deaths rise strongly, and bronchitis CFR declines strongly. Prioritize bronchitis deaths as the main target and bronchitis live discharges as secondary. The reason is clear mortality worsening in bronchitis despite improving CFR.
+
+17. Matara: Asthma live discharges and asthma deaths decline, and asthma CFR declines strongly. Bronchitis live discharges rise slightly, bronchitis deaths rise slightly, and bronchitis CFR is near flat. Prioritize bronchitis deaths and bronchitis live discharges for early intervention. The reason is a small but consistent upward mortality-pressure signal in bronchitis.
+
+18. Monaragala: Asthma live discharges decline and asthma deaths decline, with near-flat asthma CFR. Bronchitis live discharges and bronchitis deaths both rise, while bronchitis CFR declines slightly. Prioritize bronchitis deaths and bronchitis live discharges. The reason is growing bronchitis burden with mortality increase, even if severity rate is not worsening.
+
+19. Mullaitivu: Asthma live discharges and asthma deaths decline, with slightly declining asthma CFR. Bronchitis live discharges rise, bronchitis deaths rise, and bronchitis CFR is slightly positive. Prioritize bronchitis deaths first, then bronchitis live discharges. The reason is aligned upward movement across all three bronchitis burden indicators.
+
+20. Nuwara Eliya: Asthma live discharges and asthma deaths decline, and asthma CFR declines strongly. Bronchitis live discharges rise slightly, bronchitis deaths are near-flat positive, and bronchitis CFR declines strongly. Prioritize bronchitis live discharges and bronchitis deaths as surveillance targets. The reason is potential transition toward higher bronchitis volume before major mortality change.
+
+21. Polonnaruwa: Asthma live discharges and asthma deaths decline, with slightly declining asthma CFR. Bronchitis live discharges rise strongly, bronchitis deaths rise, and bronchitis CFR declines slightly. Prioritize bronchitis live discharges and bronchitis deaths. The reason is strong bronchitis burden growth in absolute terms.
+
+22. Puttalam: Asthma live discharges decline, but asthma deaths and asthma CFR are positive. Bronchitis live discharges rise while bronchitis deaths and CFR decline. Prioritize asthma deaths as top target, then asthma CFR and bronchitis live discharges. The reason is worsening asthma mortality signal despite lower asthma admissions.
+
+23. Ratnapura: Asthma live discharges rise strongly, asthma deaths rise strongly, and asthma CFR is slightly positive. Bronchitis live discharges rise strongly, but bronchitis deaths and CFR decline. Prioritize asthma deaths and asthma live discharges first, then bronchitis live discharges for capacity planning. The reason is the clearest asthma-side worsening among high-volume districts.
+
+24. Trincomalee: Asthma live discharges, asthma deaths, and asthma CFR all decline. Bronchitis live discharges, bronchitis deaths, and bronchitis CFR also decline. Keep all six targets in maintenance mode, with periodic checks for rebound. The reason is broad multi-target improvement across both conditions.
+
+25. Vavuniya: Asthma live discharges, asthma deaths, and asthma CFR all decline. Bronchitis live discharges decline slightly, but bronchitis deaths and bronchitis CFR are slightly positive. Prioritize bronchitis deaths as the watch target while maintaining gains in asthma. The reason is early bronchitis mortality drift upward despite overall improving asthma profile.
