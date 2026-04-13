@@ -1,0 +1,126 @@
+metric,rank,province,district,pm2.5_ug_m3,frp_total,tc_loss_ha,asthma_live_discharges,bronchitis_live_discharges
+pm2.5_ug_m3,1,Northern,Jaffna,20.918253045984848,,,,
+pm2.5_ug_m3,2,Northern,Kilinochchi,20.576917654681818,,,,
+pm2.5_ug_m3,3,Northern,Mannar,20.322935071568182,,,,
+pm2.5_ug_m3,4,Northern,Mullaitivu,19.52604565006818,,,,
+pm2.5_ug_m3,5,Northern,Vavuniya,18.775578496227272,,,,
+pm2.5_ug_m3,6,North Western,Puttalam,18.762840836242425,,,,
+pm2.5_ug_m3,7,North Central,Anuradhapura,17.678894078325754,,,,
+pm2.5_ug_m3,8,Eastern,Trincomalee,17.361697085545455,,,,
+pm2.5_ug_m3,9,Western,Gampaha,17.267432124833334,,,,
+pm2.5_ug_m3,10,Western,Colombo,17.179270274636366,,,,
+pm2.5_ug_m3,11,North Western,Kurunegala,17.10390006896212,,,,
+pm2.5_ug_m3,12,Western,Kalutara,16.885837559068182,,,,
+pm2.5_ug_m3,13,Southern,Galle,16.32024116844697,,,,
+pm2.5_ug_m3,14,Eastern,Ampara,16.118140956674242,,,,
+pm2.5_ug_m3,15,North Central,Polonnaruwa,16.05414906760606,,,,
+pm2.5_ug_m3,16,Southern,Hambantota,15.781380292249999,,,,
+pm2.5_ug_m3,17,Southern,Matara,15.688301138386365,,,,
+pm2.5_ug_m3,18,Eastern,Batticaloa,15.442592159810607,,,,
+pm2.5_ug_m3,19,Central,Matale,14.899688858492425,,,,
+pm2.5_ug_m3,20,Sabaragamuwa,Kegalle,14.28759835246212,,,,
+pm2.5_ug_m3,21,Sabaragamuwa,Ratnapura,14.19085569040909,,,,
+pm2.5_ug_m3,22,Uva,Monaragala,13.63025572293182,,,,
+pm2.5_ug_m3,23,Central,Kandy,13.369872013560606,,,,
+pm2.5_ug_m3,24,Uva,Badulla,12.555430556128789,,,,
+pm2.5_ug_m3,25,Central,Nuwara Eliya,12.030132162212121,,,,
+frp_total,1,North Central,Anuradhapura,,602.0993939393938,,,
+frp_total,2,Uva,Monaragala,,362.47340909090906,,,
+frp_total,3,Eastern,Ampara,,305.2806060606061,,,
+frp_total,4,Southern,Hambantota,,252.42954545454543,,,
+frp_total,5,Uva,Badulla,,215.0725,,,
+frp_total,6,North Western,Kurunegala,,178.62098484848485,,,
+frp_total,7,North Central,Polonnaruwa,,164.68424242424243,,,
+frp_total,8,North Western,Puttalam,,133.55439393939395,,,
+frp_total,9,Northern,Vavuniya,,121.27992424242424,,,
+frp_total,10,Eastern,Trincomalee,,107.9176515151515,,,
+frp_total,11,Eastern,Batticaloa,,103.62431818181818,,,
+frp_total,12,Northern,Mullaitivu,,97.98530303030303,,,
+frp_total,13,Central,Matale,,72.63772727272728,,,
+frp_total,14,Northern,Kilinochchi,,68.68234848484849,,,
+frp_total,15,Northern,Mannar,,59.31075757575758,,,
+frp_total,16,Sabaragamuwa,Ratnapura,,44.55742424242424,,,
+frp_total,17,Central,Kandy,,44.12340909090909,,,
+frp_total,18,Central,Nuwara Eliya,,31.205378787878786,,,
+frp_total,19,Northern,Jaffna,,11.900833333333335,,,
+frp_total,20,Western,Gampaha,,10.991439393939393,,,
+frp_total,21,Western,Kalutara,,6.380984848484848,,,
+frp_total,22,Sabaragamuwa,Kegalle,,5.539090909090909,,,
+frp_total,23,Southern,Matara,,3.5815909090909095,,,
+frp_total,24,Southern,Galle,,2.070227272727273,,,
+frp_total,25,Western,Colombo,,0.7817424242424242,,,
+tc_loss_ha,1,North Western,Kurunegala,,,1424.4545454545455,,
+tc_loss_ha,2,North Central,Anuradhapura,,,1357.909090909091,,
+tc_loss_ha,3,Northern,Vavuniya,,,1040.1818181818182,,
+tc_loss_ha,4,Sabaragamuwa,Kegalle,,,765.5454545454545,,
+tc_loss_ha,5,Northern,Mullaitivu,,,701.2727272727273,,
+tc_loss_ha,6,Western,Kalutara,,,682.0,,
+tc_loss_ha,7,Sabaragamuwa,Ratnapura,,,611.0,,
+tc_loss_ha,8,Uva,Monaragala,,,566.2727272727273,,
+tc_loss_ha,9,North Western,Puttalam,,,515.7272727272727,,
+tc_loss_ha,10,Central,Matale,,,505.90909090909093,,
+tc_loss_ha,11,Uva,Badulla,,,378.1818181818182,,
+tc_loss_ha,12,Eastern,Trincomalee,,,369.6363636363636,,
+tc_loss_ha,13,Eastern,Ampara,,,352.0,,
+tc_loss_ha,14,North Central,Polonnaruwa,,,335.72727272727275,,
+tc_loss_ha,15,Southern,Galle,,,296.90909090909093,,
+tc_loss_ha,16,Northern,Mannar,,,282.3636363636364,,
+tc_loss_ha,17,Central,Nuwara Eliya,,,273.8181818181818,,
+tc_loss_ha,18,Western,Gampaha,,,246.54545454545453,,
+tc_loss_ha,19,Southern,Hambantota,,,226.9090909090909,,
+tc_loss_ha,20,Southern,Matara,,,212.0909090909091,,
+tc_loss_ha,21,Western,Colombo,,,210.1818181818182,,
+tc_loss_ha,22,Central,Kandy,,,176.72727272727272,,
+tc_loss_ha,23,Eastern,Batticaloa,,,162.9090909090909,,
+tc_loss_ha,24,Northern,Kilinochchi,,,113.18181818181819,,
+tc_loss_ha,25,Northern,Jaffna,,,26.181818181818183,,
+asthma_live_discharges,1,Western,Gampaha,,,,14891.181818181818,
+asthma_live_discharges,2,North Western,Kurunegala,,,,13081.454545454546,
+asthma_live_discharges,3,Western,Colombo,,,,11119.545454545454,
+asthma_live_discharges,4,Sabaragamuwa,Ratnapura,,,,10128.727272727272,
+asthma_live_discharges,5,Central,Kandy,,,,8724.272727272728,
+asthma_live_discharges,6,Southern,Hambantota,,,,8285.545454545454,
+asthma_live_discharges,7,Southern,Galle,,,,8129.909090909091,
+asthma_live_discharges,8,Eastern,Ampara,,,,7824.090909090909,
+asthma_live_discharges,9,Northern,Jaffna,,,,7026.545454545455,
+asthma_live_discharges,10,Western,Kalutara,,,,7009.090909090909,
+asthma_live_discharges,11,North Central,Anuradhapura,,,,6336.181818181818,
+asthma_live_discharges,12,Uva,Badulla,,,,5588.090909090909,
+asthma_live_discharges,13,Uva,Monaragala,,,,5417.545454545455,
+asthma_live_discharges,14,Southern,Matara,,,,5086.545454545455,
+asthma_live_discharges,15,Sabaragamuwa,Kegalle,,,,4868.818181818182,
+asthma_live_discharges,16,Eastern,Batticaloa,,,,4056.3636363636365,
+asthma_live_discharges,17,North Western,Puttalam,,,,3795.5454545454545,
+asthma_live_discharges,18,Central,Matale,,,,3144.7272727272725,
+asthma_live_discharges,19,North Central,Polonnaruwa,,,,3135.2727272727275,
+asthma_live_discharges,20,Central,Nuwara Eliya,,,,3010.818181818182,
+asthma_live_discharges,21,Eastern,Trincomalee,,,,2999.4545454545455,
+asthma_live_discharges,22,Northern,Kilinochchi,,,,1178.7272727272727,
+asthma_live_discharges,23,Northern,Mullaitivu,,,,1106.8181818181818,
+asthma_live_discharges,24,Northern,Vavuniya,,,,997.4545454545455,
+asthma_live_discharges,25,Northern,Mannar,,,,603.3636363636364,
+bronchitis_live_discharges,1,Central,Kandy,,,,,4839.545454545455
+bronchitis_live_discharges,2,Western,Colombo,,,,,3371.4545454545455
+bronchitis_live_discharges,3,Uva,Badulla,,,,,2532.818181818182
+bronchitis_live_discharges,4,Eastern,Ampara,,,,,2019.090909090909
+bronchitis_live_discharges,5,Central,Nuwara Eliya,,,,,1919.4545454545455
+bronchitis_live_discharges,6,Central,Matale,,,,,1890.4545454545455
+bronchitis_live_discharges,7,Western,Gampaha,,,,,1654.909090909091
+bronchitis_live_discharges,8,North Central,Anuradhapura,,,,,1629.1818181818182
+bronchitis_live_discharges,9,Sabaragamuwa,Kegalle,,,,,1610.5454545454545
+bronchitis_live_discharges,10,Western,Kalutara,,,,,1556.0
+bronchitis_live_discharges,11,Southern,Galle,,,,,1532.3636363636363
+bronchitis_live_discharges,12,Sabaragamuwa,Ratnapura,,,,,1291.090909090909
+bronchitis_live_discharges,13,North Western,Kurunegala,,,,,1216.2727272727273
+bronchitis_live_discharges,14,Uva,Monaragala,,,,,1090.4545454545455
+bronchitis_live_discharges,15,North Central,Polonnaruwa,,,,,884.6363636363636
+bronchitis_live_discharges,16,Southern,Hambantota,,,,,838.2727272727273
+bronchitis_live_discharges,17,Eastern,Trincomalee,,,,,836.6363636363636
+bronchitis_live_discharges,18,Northern,Jaffna,,,,,784.9090909090909
+bronchitis_live_discharges,19,Southern,Matara,,,,,783.8181818181819
+bronchitis_live_discharges,20,Eastern,Batticaloa,,,,,708.0909090909091
+bronchitis_live_discharges,21,Northern,Kilinochchi,,,,,369.6363636363636
+bronchitis_live_discharges,22,North Western,Puttalam,,,,,349.27272727272725
+bronchitis_live_discharges,23,Northern,Vavuniya,,,,,332.45454545454544
+bronchitis_live_discharges,24,Northern,Mullaitivu,,,,,169.54545454545453
+bronchitis_live_discharges,25,Northern,Mannar,,,,,154.1818181818182

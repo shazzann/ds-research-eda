@@ -1,0 +1,7 @@
+target,highest_district,highest_province,highest_value,lowest_district,lowest_province,lowest_value
+asthma_live_discharges,Gampaha,Western,14891.181818181818,Mannar,Northern,603.3636363636364
+bronchitis_live_discharges,Kandy,Central,4839.545454545455,Mannar,Northern,154.1818181818182
+asthma_deaths,Colombo,Western,65.9090909090909,Kilinochchi,Northern,0.7272727272727273
+bronchitis_deaths,Kandy,Central,154.27272727272728,Mannar,Northern,1.1818181818181819
+asthma_cfr,Kurunegala,North Western,87.65272727272728,Kilinochchi,Northern,0.06909090909090909
+bronchitis_cfr,Galle,Southern,1438.8636363636363,Mannar,Northern,0.9790909090909091

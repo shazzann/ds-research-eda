@@ -1,0 +1,6 @@
+metric,highest_district,highest_value,lowest_district,lowest_value
+pm2.5_ug_m3,Jaffna,20.918253045984848,Nuwara Eliya,12.030132162212121
+frp_total,Anuradhapura,602.0993939393938,Colombo,0.7817424242424242
+tc_loss_ha,Kurunegala,1424.4545454545455,Jaffna,26.181818181818183
+vim,Kegalle,0.7692354798030303,Jaffna,0.4513787878863636
+asthma_live_discharges,Gampaha,14891.181818181818,Mannar,603.3636363636364

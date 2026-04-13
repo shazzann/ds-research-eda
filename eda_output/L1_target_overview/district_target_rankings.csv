@@ -1,0 +1,151 @@
+target,rank,province,district,value
+asthma_live_discharges,1,Western,Gampaha,14891.181818181818
+asthma_live_discharges,2,North Western,Kurunegala,13081.454545454546
+asthma_live_discharges,3,Western,Colombo,11119.545454545454
+asthma_live_discharges,4,Sabaragamuwa,Ratnapura,10128.727272727272
+asthma_live_discharges,5,Central,Kandy,8724.272727272728
+asthma_live_discharges,6,Southern,Hambantota,8285.545454545454
+asthma_live_discharges,7,Southern,Galle,8129.909090909091
+asthma_live_discharges,8,Eastern,Ampara,7824.090909090909
+asthma_live_discharges,9,Northern,Jaffna,7026.545454545455
+asthma_live_discharges,10,Western,Kalutara,7009.090909090909
+asthma_live_discharges,11,North Central,Anuradhapura,6336.181818181818
+asthma_live_discharges,12,Uva,Badulla,5588.090909090909
+asthma_live_discharges,13,Uva,Monaragala,5417.545454545455
+asthma_live_discharges,14,Southern,Matara,5086.545454545455
+asthma_live_discharges,15,Sabaragamuwa,Kegalle,4868.818181818182
+asthma_live_discharges,16,Eastern,Batticaloa,4056.3636363636365
+asthma_live_discharges,17,North Western,Puttalam,3795.5454545454545
+asthma_live_discharges,18,Central,Matale,3144.7272727272725
+asthma_live_discharges,19,North Central,Polonnaruwa,3135.2727272727275
+asthma_live_discharges,20,Central,Nuwara Eliya,3010.818181818182
+asthma_live_discharges,21,Eastern,Trincomalee,2999.4545454545455
+asthma_live_discharges,22,Northern,Kilinochchi,1178.7272727272727
+asthma_live_discharges,23,Northern,Mullaitivu,1106.8181818181818
+asthma_live_discharges,24,Northern,Vavuniya,997.4545454545455
+asthma_live_discharges,25,Northern,Mannar,603.3636363636364
+bronchitis_live_discharges,1,Central,Kandy,4839.545454545455
+bronchitis_live_discharges,2,Western,Colombo,3371.4545454545455
+bronchitis_live_discharges,3,Uva,Badulla,2532.818181818182
+bronchitis_live_discharges,4,Eastern,Ampara,2019.090909090909
+bronchitis_live_discharges,5,Central,Nuwara Eliya,1919.4545454545455
+bronchitis_live_discharges,6,Central,Matale,1890.4545454545455
+bronchitis_live_discharges,7,Western,Gampaha,1654.909090909091
+bronchitis_live_discharges,8,North Central,Anuradhapura,1629.1818181818182
+bronchitis_live_discharges,9,Sabaragamuwa,Kegalle,1610.5454545454545
+bronchitis_live_discharges,10,Western,Kalutara,1556.0
+bronchitis_live_discharges,11,Southern,Galle,1532.3636363636363
+bronchitis_live_discharges,12,Sabaragamuwa,Ratnapura,1291.090909090909
+bronchitis_live_discharges,13,North Western,Kurunegala,1216.2727272727273
+bronchitis_live_discharges,14,Uva,Monaragala,1090.4545454545455
+bronchitis_live_discharges,15,North Central,Polonnaruwa,884.6363636363636
+bronchitis_live_discharges,16,Southern,Hambantota,838.2727272727273
+bronchitis_live_discharges,17,Eastern,Trincomalee,836.6363636363636
+bronchitis_live_discharges,18,Northern,Jaffna,784.9090909090909
+bronchitis_live_discharges,19,Southern,Matara,783.8181818181819
+bronchitis_live_discharges,20,Eastern,Batticaloa,708.0909090909091
+bronchitis_live_discharges,21,Northern,Kilinochchi,369.6363636363636
+bronchitis_live_discharges,22,North Western,Puttalam,349.27272727272725
+bronchitis_live_discharges,23,Northern,Vavuniya,332.45454545454544
+bronchitis_live_discharges,24,Northern,Mullaitivu,169.54545454545453
+bronchitis_live_discharges,25,Northern,Mannar,154.1818181818182
+asthma_deaths,1,Western,Colombo,65.9090909090909
+asthma_deaths,2,North Western,Kurunegala,58.72727272727273
+asthma_deaths,3,Southern,Galle,47.27272727272727
+asthma_deaths,4,Central,Kandy,38.09090909090909
+asthma_deaths,5,Sabaragamuwa,Kegalle,34.27272727272727
+asthma_deaths,6,Sabaragamuwa,Ratnapura,32.72727272727273
+asthma_deaths,7,Southern,Hambantota,24.181818181818183
+asthma_deaths,8,Western,Gampaha,24.0
+asthma_deaths,9,Uva,Badulla,21.09090909090909
+asthma_deaths,10,Southern,Matara,20.90909090909091
+asthma_deaths,11,North Western,Puttalam,19.818181818181817
+asthma_deaths,12,North Central,Anuradhapura,18.90909090909091
+asthma_deaths,13,Western,Kalutara,17.545454545454547
+asthma_deaths,14,Central,Matale,14.454545454545455
+asthma_deaths,15,Central,Nuwara Eliya,13.090909090909092
+asthma_deaths,16,Northern,Jaffna,9.636363636363637
+asthma_deaths,17,Uva,Monaragala,9.0
+asthma_deaths,18,North Central,Polonnaruwa,8.272727272727273
+asthma_deaths,19,Eastern,Trincomalee,8.272727272727273
+asthma_deaths,20,Eastern,Ampara,6.7272727272727275
+asthma_deaths,21,Eastern,Batticaloa,2.909090909090909
+asthma_deaths,22,Northern,Mullaitivu,1.3636363636363635
+asthma_deaths,23,Northern,Vavuniya,1.1818181818181819
+asthma_deaths,24,Northern,Mannar,1.0
+asthma_deaths,25,Northern,Kilinochchi,0.7272727272727273
+bronchitis_deaths,1,Central,Kandy,154.27272727272728
+bronchitis_deaths,2,Western,Colombo,125.0
+bronchitis_deaths,3,Uva,Badulla,88.9090909090909
+bronchitis_deaths,4,Western,Gampaha,81.0909090909091
+bronchitis_deaths,5,Southern,Galle,68.54545454545455
+bronchitis_deaths,6,Central,Matale,64.63636363636364
+bronchitis_deaths,7,North Central,Anuradhapura,63.63636363636363
+bronchitis_deaths,8,North Western,Kurunegala,63.63636363636363
+bronchitis_deaths,9,Central,Nuwara Eliya,55.0
+bronchitis_deaths,10,Sabaragamuwa,Kegalle,54.54545454545455
+bronchitis_deaths,11,Uva,Monaragala,40.36363636363637
+bronchitis_deaths,12,Western,Kalutara,36.72727272727273
+bronchitis_deaths,13,Sabaragamuwa,Ratnapura,35.63636363636363
+bronchitis_deaths,14,North Central,Polonnaruwa,34.18181818181818
+bronchitis_deaths,15,Northern,Jaffna,32.18181818181818
+bronchitis_deaths,16,Eastern,Ampara,29.09090909090909
+bronchitis_deaths,17,Southern,Hambantota,21.363636363636363
+bronchitis_deaths,18,Southern,Matara,21.0
+bronchitis_deaths,19,Eastern,Trincomalee,13.181818181818182
+bronchitis_deaths,20,Eastern,Batticaloa,12.272727272727273
+bronchitis_deaths,21,Northern,Vavuniya,9.454545454545455
+bronchitis_deaths,22,North Western,Puttalam,9.272727272727273
+bronchitis_deaths,23,Northern,Kilinochchi,3.6363636363636362
+bronchitis_deaths,24,Northern,Mullaitivu,2.8181818181818183
+bronchitis_deaths,25,Northern,Mannar,1.1818181818181819
+asthma_cfr,1,North Western,Kurunegala,87.65272727272728
+asthma_cfr,2,Uva,Badulla,52.79363636363637
+asthma_cfr,3,Southern,Galle,45.97909090909091
+asthma_cfr,4,Southern,Matara,45.77818181818182
+asthma_cfr,5,Southern,Hambantota,28.314545454545453
+asthma_cfr,6,Central,Nuwara Eliya,27.673636363636366
+asthma_cfr,7,Western,Kalutara,16.11090909090909
+asthma_cfr,8,Northern,Jaffna,10.335454545454546
+asthma_cfr,9,Eastern,Batticaloa,4.608181818181818
+asthma_cfr,10,Sabaragamuwa,Kegalle,0.7390909090909091
+asthma_cfr,11,North Western,Puttalam,0.5945454545454546
+asthma_cfr,12,Western,Colombo,0.5827272727272728
+asthma_cfr,13,Central,Matale,0.4636363636363637
+asthma_cfr,14,Central,Kandy,0.43727272727272726
+asthma_cfr,15,Sabaragamuwa,Ratnapura,0.32181818181818184
+asthma_cfr,16,North Central,Anuradhapura,0.2972727272727273
+asthma_cfr,17,Eastern,Trincomalee,0.2581818181818182
+asthma_cfr,18,North Central,Polonnaruwa,0.25545454545454543
+asthma_cfr,19,Uva,Monaragala,0.19090909090909092
+asthma_cfr,20,Western,Gampaha,0.17727272727272725
+asthma_cfr,21,Northern,Mannar,0.13727272727272727
+asthma_cfr,22,Northern,Mullaitivu,0.1190909090909091
+asthma_cfr,23,Eastern,Ampara,0.08818181818181818
+asthma_cfr,24,Northern,Vavuniya,0.08727272727272727
+asthma_cfr,25,Northern,Kilinochchi,0.06909090909090909
+bronchitis_cfr,1,Southern,Galle,1438.8636363636363
+bronchitis_cfr,2,North Western,Kurunegala,1239.8081818181818
+bronchitis_cfr,3,Western,Gampaha,1053.3500000000001
+bronchitis_cfr,4,Central,Matale,466.5618181818182
+bronchitis_cfr,5,Central,Nuwara Eliya,411.18636363636364
+bronchitis_cfr,6,Sabaragamuwa,Kegalle,357.4290909090909
+bronchitis_cfr,7,North Central,Anuradhapura,339.6454545454545
+bronchitis_cfr,8,Western,Kalutara,247.45818181818183
+bronchitis_cfr,9,Central,Kandy,244.54999999999998
+bronchitis_cfr,10,Northern,Jaffna,9.08909090909091
+bronchitis_cfr,11,North Western,Puttalam,5.473636363636364
+bronchitis_cfr,12,Uva,Monaragala,4.242727272727272
+bronchitis_cfr,13,North Central,Polonnaruwa,3.896363636363637
+bronchitis_cfr,14,Western,Colombo,3.7972727272727274
+bronchitis_cfr,15,Uva,Badulla,3.499090909090909
+bronchitis_cfr,16,Southern,Hambantota,3.150909090909091
+bronchitis_cfr,17,Sabaragamuwa,Ratnapura,2.940909090909091
+bronchitis_cfr,18,Northern,Vavuniya,2.8572727272727274
+bronchitis_cfr,19,Northern,Mullaitivu,2.6845454545454546
+bronchitis_cfr,20,Southern,Matara,2.668181818181818
+bronchitis_cfr,21,Eastern,Batticaloa,2.0236363636363635
+bronchitis_cfr,22,Eastern,Trincomalee,1.6663636363636365
+bronchitis_cfr,23,Eastern,Ampara,1.4445454545454546
+bronchitis_cfr,24,Northern,Kilinochchi,0.9809090909090908
+bronchitis_cfr,25,Northern,Mannar,0.9790909090909091
