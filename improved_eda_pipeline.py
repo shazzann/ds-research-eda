@@ -310,7 +310,91 @@ def top_level_target_overview(df: pd.DataFrame, outdir: Path):
         sns.heatmap(province_targets, cmap='YlOrRd', annot=True, fmt='.2f', linewidths=.3, ax=ax)
         ax.set_title('Province-level target comparison')
         savefig(fig, level_dir / 'province_target_heatmap.png')
+# # def generate_health_target_dashboard(ddf: pd.DataFrame, district_name: str, outdir: Path):
+#     district_slug = district_name.replace(' ', '_')
+#     district_dir = outdir / 'L2_district_targets' / district_slug
+#     district_dir.mkdir(parents=True, exist_ok=True)
 
+#     target_cols = safe_cols(ddf, TARGET_COLS)
+#     if not target_cols:
+#         return
+
+#     yearly = ddf.groupby('year')[target_cols].mean(numeric_only=True)
+#     monthly = ddf.groupby('month')[target_cols].mean(numeric_only=True).reindex(MONTH_ORDER)
+
+#     n_targets = len(target_cols)
+
+#     fig, axes = plt.subplots(
+#         nrows=n_targets,
+#         ncols=3,
+#         figsize=(20, 4.2 * n_targets),
+#         constrained_layout=True
+#     )
+
+#     if n_targets == 1:
+#         axes = np.array([axes])
+
+#     fig.suptitle(
+#         f'{district_name} — Health Target Dashboard',
+#         fontsize=18,
+#         fontweight='bold',
+#         y=1.02
+#     )
+
+#     for i, target in enumerate(target_cols):
+#         # 1. Yearly trend
+#         ax1 = axes[i, 0]
+#         if target in yearly.columns and not yearly[target].dropna().empty:
+#             ax1.plot(yearly.index, yearly[target], marker='o', linewidth=2)
+#             ax1.set_title(f'Yearly Trend: {target}', fontsize=11, fontweight='bold')
+#             ax1.set_xlabel('Year')
+#             ax1.set_ylabel(target)
+#         else:
+#             ax1.text(0.5, 0.5, 'No data', ha='center', va='center')
+#             ax1.set_title(f'Yearly Trend: {target}', fontsize=11, fontweight='bold')
+#             ax1.axis('off')
+
+#         # 2. Monthly pattern
+#         ax2 = axes[i, 1]
+#         if target in monthly.columns and not monthly[target].dropna().empty:
+#             xs = np.arange(len(monthly.index))
+#             ax2.bar(xs, monthly[target].values)
+#             ax2.set_xticks(xs)
+#             ax2.set_xticklabels([m[:3] for m in monthly.index], rotation=45)
+#             ax2.set_title(f'Monthly Pattern: {target}', fontsize=11, fontweight='bold')
+#             ax2.set_xlabel('Month')
+#             ax2.set_ylabel(target)
+#         else:
+#             ax2.text(0.5, 0.5, 'No data', ha='center', va='center')
+#             ax2.set_title(f'Monthly Pattern: {target}', fontsize=11, fontweight='bold')
+#             ax2.axis('off')
+
+#         # 3. Year × Month heatmap
+#         ax3 = axes[i, 2]
+#         pivot = (
+#             ddf.pivot_table(index='year', columns='month', values=target, aggfunc='mean')
+#                .reindex(columns=MONTH_ORDER)
+#         )
+
+#         if pivot.notna().sum().sum() > 0:
+#             sns.heatmap(
+#                 pivot,
+#                 cmap='YlOrRd',
+#                 annot=True,
+#                 fmt='.1f',
+#                 linewidths=.3,
+#                 ax=ax3,
+#                 cbar=True
+#             )
+#             ax3.set_title(f'Year × Month: {target}', fontsize=11, fontweight='bold')
+#             ax3.set_xlabel('Month')
+#             ax3.set_ylabel('Year')
+#         else:
+#             ax3.text(0.5, 0.5, 'No data', ha='center', va='center')
+#             ax3.set_title(f'Year × Month: {target}', fontsize=11, fontweight='bold')
+#             ax3.axis('off')
+
+#     savefig(fig, district_dir / 'health_target_dashboard.png')
 
 def district_target_report(df: pd.DataFrame, district: str, outdir: Path):
     ddf = df[df['district'].astype(str).str.lower() == district.lower()].copy()
@@ -477,7 +561,8 @@ def district_target_report(df: pd.DataFrame, district: str, outdir: Path):
                 ax.set_title(f'{district_name}: {feat} vs {target} (r={corr_val:.2f})')
                 plt.tight_layout()
                 savefig(fig, district_dir / f'scatter_{feat}_vs_{target}.png')
-
+    # New feature: combined dashboard for all health targets
+    # generate_health_target_dashboard(ddf, district_name, outdir)
     return summary
 
 
