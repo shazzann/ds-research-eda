@@ -1,0 +1,83 @@
+AMPARA
+Findings:
+- Emissions and deforestation drive bronchitis severity (CFR r = 0.37, deaths r = 0.30) — not how many get sick, but how badly.
+- Forest loss compounds this — bronchitis CFR (r = 0.36) and deaths (r = 0.33) both track tree cover decline.
+- PM2.5 is weak here (r = 0.12) — air quality alone is not the story.
+- Population inversely affects asthma CFR (r = -0.46) — likely reflects improving healthcare access over time.
+Bottom line:
+- Environmental degradation = worse outcomes when people do get sick.
+Use features:
+- carbon_gross_emissions_yearly — strongest bronchitis severity driver.
+- tc_loss_ha — directly tracks bronchitis CFR and deaths.
+- total_population_1k — controls for asthma scaling effect.
+- vim_anomaly — secondary climate variability signal.
+Skip features:
+- pm2.5_ug_m3 — too weak to add model value here.
+
+ANURADHAPURA
+Findings:
+- Strongest environmental signal of all 5 districts — forest loss predicts bronchitis CFR (r = 0.69) and asthma CFR (r = -0.75).
+- Emissions are strongly tied to bronchitis CFR (r = 0.66) — most direct emissions-severity link found.
+- Asthma dropped sharply in 2020–2021, then partially recovered — likely COVID reporting disruption, not real improvement.
+- Bronchitis cases and deaths are rising post-2020 — genuine growing burden.
+Bottom line:
+- Deforestation is the single biggest lever — reforestation would likely have the highest health ROI here.
+Use features:
+- tc_loss_ha — single strongest predictor across both diseases.
+- carbon_gross_emissions_yearly — dominant bronchitis CFR driver (r = 0.66).
+- year — post-2020 structural break needs to be captured.
+- total_population_1k — controls the asthma case decline trend.
+Skip features:
+- vim_anomaly, frp_mean — minimal signal here.
+
+BADULLA
+Findings:
+- Asthma deaths are declining strongly over time (population vs deaths r = -0.93) — genuine long-term improvement.
+- Bronchitis cases are rising gradually — two diseases moving in opposite directions.
+- Forest loss has mixed effects — moderately raises bronchitis cases (r = 0.32) but correlates with falling asthma deaths (r = -0.53).
+- Zero-value asthma case data in some years suggests reporting issues; treat incidence figures with caution.
+Bottom line:
+- Good news on asthma mortality, emerging bronchitis problem, and unreliable case data complicate the full picture.
+Use features:
+- tc_loss_ha — moderate but real effect on both bronchitis and asthma.
+- carbon_gross_emissions_yearly — moderate bronchitis case predictor.
+- total_population_1k — tracks the declining asthma mortality trend.
+- year — strong time trend in asthma deaths needs explicit encoding.
+Skip features:
+- pm2.5_ug_m3, frp_total — weak signals.
+
+BATTICALOA
+Findings:
+- Bronchitis is the dominant concern — deaths scale directly with population (r = 0.67), and CFR follows (r = 0.56).
+- Asthma data appears unreliable — near-zero discharge spikes and a CFR anomaly of ~50 indicate a data collection problem.
+- Environmental factors exist but are secondary — PM2.5 vs asthma deaths is only r = 0.27.
+- Male and female population data show the same pattern — no gender anomaly, just population pressure.
+Bottom line:
+- This is primarily a healthcare capacity problem — clinical infrastructure likely matters more than environmental intervention.
+Use features:
+- total_population_1k / male_population_1k / female_population_1k — primary bronchitis severity driver.
+- tc_loss_ha — secondary but measurable for asthma CFR.
+- pm2.5_ug_m3 — marginal but worth including for asthma deaths.
+- vim_anomaly — small signal on asthma deaths, low cost to include.
+Skip features:
+- fire features (frp_mean, frp_total, brightness) — no meaningful signal.
+
+COLOMBO
+Findings:
+- Complete inversion versus other districts — population growth is linked to better asthma outcomes (CFR r = -0.83, deaths r = -0.79).
+- Forest loss and emissions show negative correlations with respiratory burden — likely urbanization proxy effects, not environmental protection.
+- Asthma deaths and CFR are declining long-term — real improvement driven by healthcare access.
+- Bronchitis deaths remain stubbornly high despite urban advantage — chronic air-quality issue that hospitals alone cannot fix.
+- No gender disparity found — male and female trends are identical.
+Bottom line:
+- Urban healthcare advantage is real and measurable, but chronic bronchitis remains the unresolved gap even in Sri Lanka's most developed district.
+Use features:
+- total_population_1k — dominant driver, inverse direction versus other districts.
+- tc_loss_ha — urbanization proxy, useful but direction must be interpreted carefully.
+- carbon_gross_emissions_yearly — same inverse proxy effect, include with caution.
+- year — long-term improvement trend in asthma needs time encoding.
+- no2_ug_m3 — more relevant than PM2.5 for chronic urban bronchitis.
+Skip features:
+- frp_total, vim_anomaly — near-zero relevance in urban context.
+
+
